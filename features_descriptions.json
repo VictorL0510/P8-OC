@@ -1,0 +1,23 @@
+{
+    "EXT_SOURCE_2": "Deuxième score externe d’évaluation du risque (source de données tierce).",
+    "EXT_SOURCE_3": "Troisième score externe d’évaluation du risque (source de données tierce).",
+    "PAYMENT_RATE": "Taux de paiement (annuité / crédit).",
+    "CODE_GENDER": "Genre du demandeur (homme ou femme).",
+    "AMT_ANNUITY": "Montant de l’annuité (versement périodique du crédit).",
+    "AMT_GOODS_PRICE": "Prix du bien financé.",
+    "INSTAL_DPD_MEAN": "Moyenne du nombre de jours de retard sur les remboursements précédents (Days Past Due).",
+    "DAYS_BIRTH": "Nombre de jours depuis la naissance (indicateur de l’âge).",
+    "FLAG_OWN_CAR": "Indique si le demandeur possède une voiture.",
+    "DAYS_EMPLOYED": "Nombre de jours d’ancienneté professionnelle (depuis le début du premier emploi).",
+    "NAME_EDUCATION_TYPE_Higher education": "Indique si le demandeur a fait des études supérieures.",
+    "AMT_CREDIT": "Montant total du crédit accordé.",
+    "DAYS_ID_PUBLISH": "Nombre de jours depuis la dernière mise à jour du document d’identité.",
+    "PREV_APP_CREDIT_PERC_MAX": "Ratio maximal crédit/annuité (ou crédit/valeur) observé dans les demandes précédentes.",
+    "APPROVED_CNT_PAYMENT_MEAN": "Moyenne du nombre de versements approuvés sur les crédits précédents.",
+    "NAME_FAMILY_STATUS_Married": "Indique si le demandeur est marié.",
+    "INSTAL_AMT_PAYMENT_MIN": "Montant minimum payé lors des échéances précédentes.",
+    "POS_MONTHS_BALANCE_SIZE": "Nombre total d’enregistrements (transactions) POS/CASH pour le client.",
+    "INSTAL_AMT_PAYMENT_MEAN": "Montant moyen payé lors des échéances précédentes.",
+    "POS_MONTHS_BALANCE_MAX": "La période (en mois) la plus récente ou la plus longue suivie en POS/CASH.",
+    "INSTAL_DAYS_ENTRY_PAYMENT_MEAN": "Moyenne des jours écoulés avant chaque paiement (par rapport à l’échéance) sur les crédits précédents."
+  }

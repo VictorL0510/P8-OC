@@ -1,0 +1,17 @@
+[client]
+showErrorDetails = "full"
+
+[runner]
+fastReruns = true
+
+[server]
+fileWatcherType="watchdog"
+maxMessageSize = 300
+
+[browser]
+gatherUsageStats = false
+serverPort = 8501
+
+[theme]
+base = "light"
+primaryColor = "#7451EB"
